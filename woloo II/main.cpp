@@ -4,6 +4,8 @@
 int main()
 {
 
+
+	/*
 	int i = 99999999;
 
 	while (i != 0)
@@ -14,7 +16,11 @@ int main()
 		i--;
 
 	}
-	// je commente :p
+
+	test de modif de comit ( clic droit compare / undo ) */
 
 
+	int iVal = 40 / 2;
+
+ //if u put a break point you can see val !
 }
